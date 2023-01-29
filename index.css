@@ -1,0 +1,16 @@
+.container{
+    position: absolute;
+    max-width: 500px;
+    margin: auto;
+    margin-top:auto;
+    top: 10%; 
+    left: 30%;   
+}
+.form-check{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#data{
+   
+}
+
